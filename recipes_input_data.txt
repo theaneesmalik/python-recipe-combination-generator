@@ -1,0 +1,150 @@
+Chocolate:
+-----------------------------------------
+Sugar	= 2 spoons, 3 spoons, 5 spoons
+Milk	= 1% Fat, 5% Fat, 10% Fat
+Flour	= 5 gm, 10 gm
+-----------------------------------------
+Kheer:
+-----------------------------------------
+Sugar	= 10 spoons, 20 spoons, 30 spoons
+Milk	= 5% Fat, 10% Fat
+Rice	= 500 gm, 600 gm
+Water	= 300 ml, 400 ml 
+-----------------------------------------
+Halwa:
+-----------------------------------------
+Sugar	= 10 gm, 20 gm, 30 gm
+Milk	= 200 ml, 300 ml
+Carrot	= 500 gm, 600 gm, 800 gm
+-----------------------------------------
+Chicken Curry:
+-----------------------------------------
+Chicken             = 500 gm, 750 gm, 1 kg
+Onion               = 2, 3, 4
+Tomato              = 2, 3, 4
+Ginger              = 1 inch, 2 inches
+Garlic              = 3 cloves, 4 cloves
+Turmeric Powder     = 1 teaspoon
+Chili Powder        = 1 teaspoon
+Coriander Powder    = 1 teaspoon
+Salt                = to taste
+Oil                 = 2 tablespoons
+Water               = 1 cup
+-----------------------------------------
+Vegetable Stir-Fry:
+-----------------------------------------
+Carrot          = 1, 2, 3
+Broccoli        = 100 gm, 150 gm, 200 gm
+Bell Pepper     = 1, 2, 3
+Onion           = 1, 2, 3
+Garlic          = 3 cloves, 4 cloves
+Soy Sauce       = 2 tablespoons
+Vegetable Oil   = 2 tablespoons
+Salt            = to taste
+-----------------------------------------
+Beef Stew:
+-----------------------------------------
+Beef            = 500 gm, 750 gm, 1 kg
+Potatoes        = 2, 3, 4
+Carrot          = 1, 2, 3
+Onion           = 1, 2, 3
+Garlic          = 3 cloves, 4 cloves
+Beef Broth      = 2 cups
+Tomato Paste    = 2 tablespoons
+Flour           = 2 tablespoons
+Thyme           = 1 teaspoon
+Salt            = to taste
+Pepper          = to taste
+Oil             = 2 tablespoons
+Water           = 2 cups
+-----------------------------------------
+Shrimp Scampi:
+-----------------------------------------
+Shrimp              = 250 gm, 300 gm, 350 gm
+Butter              = 2 tablespoons
+Olive Oil           = 2 tablespoons
+Garlic              = 3 cloves, 4 cloves
+Lemon Juice         = 2 tablespoons
+White Wine          = 1/4 cup
+Red Chili Flakes    = 1/2 teaspoon
+Parsley             = 1 tablespoon
+Salt                = to taste
+Pepper              = to taste
+-----------------------------------------
+Spinach and Feta Stuffed Chicken Breast:
+-----------------------------------------
+Chicken Breast  = 2, 3, 4
+Spinach         = 100 gm, 150 gm, 200 gm
+Feta Cheese     = 50 gm, 75 gm, 100 gm
+Garlic          = 3 cloves, 4 cloves
+Olive Oil       = 2 tablespoons
+Salt            = to taste
+Pepper          = to taste
+-----------------------------------------
+Mushroom Risotto:
+-----------------------------------------
+Arborio Rice    = 1 cup
+Mushrooms       = 200 gm, 250 gm, 300 gm
+Onion           = 1, 2, 3
+Garlic          = 3 cloves, 4 cloves
+Vegetable Broth = 4 cups
+Butter          = 2 tablespoons
+Parmesan Cheese = 1/2 cup
+White Wine      = 1/4 cup
+Salt            = to taste
+Pepper          = to taste
+-----------------------------------------
+Honey Mustard Salmon:
+-----------------------------------------
+Salmon Fillets  = 2, 3, 4
+Dijon Mustard   = 2 tablespoons
+Honey           = 2 tablespoons
+Lemon Juice     = 2 tablespoons
+Garlic          = 3 cloves, 4 cloves
+Salt            = to taste
+Pepper          = to taste
+-----------------------------------------
+Vegetable Biryani:
+-----------------------------------------
+Basmati Rice        = 1 cup
+Carrot              = 1, 2, 3
+Potatoes            = 1, 2, 3
+Peas                = 1/2 cup
+Cauliflower         = 100 gm, 150 gm, 200 gm
+Onion               = 1, 2, 3
+Tomato              = 1, 2, 3
+Ginger              = 1 inch, 2 inches
+Garlic              = 3 cloves, 4 cloves
+Biryani Masala      = 2 tablespoons
+Turmeric Powder     = 1/2 teaspoon
+Cumin Powder        = 1/2 teaspoon
+Coriander Powder    = 1/2 teaspoon
+Ghee                = 2 tablespoons
+Salt                = to taste
+Water               = 2 cups
+-----------------------------------------
+Caprese Salad:
+-----------------------------------------
+Tomatoes                = 2, 3, 4
+Mozzarella Cheese       = 100 gm, 150 gm, 200 gm
+Fresh Basil Leaves      = 1/4 cup
+Extra Virgin Olive Oil  = 2 tablespoons
+Balsamic Glaze          = 2 tablespoons
+Salt                    = to taste
+Pepper                  = to taste
+-----------------------------------------
+Lentil Soup:
+-----------------------------------------
+Red Lentils         = 1 cup
+Carrot              = 1, 2, 3
+Celery              = 1 stalk, 2 stalks
+Onion               = 1, 2, 3
+Garlic              = 3 cloves, 4 cloves
+Vegetable Broth     = 4 cups
+Cumin Powder        = 1 teaspoon
+Coriander Powder    = 1 teaspoon
+Turmeric Powder     = 1/2 teaspoon
+Paprika             = 1/2 teaspoon
+Olive Oil           = 2 tablespoons
+Salt                = to taste
+Pepper              = to taste
