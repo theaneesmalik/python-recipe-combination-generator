@@ -1,164 +1,164 @@
-| Combos |  Beef  | Potatoes | Carrot | Onion |  Garlic  |     Flour     |   Thyme    |   Salt   |  Pepper  |      Oil      | Water  |
-|--------|--------|----------|--------|-------|----------|---------------|------------|----------|----------|---------------|--------|
-|   1    | 500 gm |    2     |   1    |   1   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   2    | 500 gm |    2     |   1    |   1   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   3    | 500 gm |    2     |   1    |   2   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   4    | 500 gm |    2     |   1    |   2   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   5    | 500 gm |    2     |   1    |   3   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   6    | 500 gm |    2     |   1    |   3   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   7    | 500 gm |    2     |   2    |   1   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   8    | 500 gm |    2     |   2    |   1   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   9    | 500 gm |    2     |   2    |   2   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   10   | 500 gm |    2     |   2    |   2   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   11   | 500 gm |    2     |   2    |   3   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   12   | 500 gm |    2     |   2    |   3   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   13   | 500 gm |    2     |   3    |   1   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   14   | 500 gm |    2     |   3    |   1   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   15   | 500 gm |    2     |   3    |   2   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   16   | 500 gm |    2     |   3    |   2   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   17   | 500 gm |    2     |   3    |   3   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   18   | 500 gm |    2     |   3    |   3   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   19   | 500 gm |    3     |   1    |   1   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   20   | 500 gm |    3     |   1    |   1   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   21   | 500 gm |    3     |   1    |   2   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   22   | 500 gm |    3     |   1    |   2   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   23   | 500 gm |    3     |   1    |   3   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   24   | 500 gm |    3     |   1    |   3   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   25   | 500 gm |    3     |   2    |   1   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   26   | 500 gm |    3     |   2    |   1   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   27   | 500 gm |    3     |   2    |   2   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   28   | 500 gm |    3     |   2    |   2   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   29   | 500 gm |    3     |   2    |   3   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   30   | 500 gm |    3     |   2    |   3   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   31   | 500 gm |    3     |   3    |   1   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   32   | 500 gm |    3     |   3    |   1   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   33   | 500 gm |    3     |   3    |   2   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   34   | 500 gm |    3     |   3    |   2   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   35   | 500 gm |    3     |   3    |   3   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   36   | 500 gm |    3     |   3    |   3   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   37   | 500 gm |    4     |   1    |   1   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   38   | 500 gm |    4     |   1    |   1   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   39   | 500 gm |    4     |   1    |   2   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   40   | 500 gm |    4     |   1    |   2   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   41   | 500 gm |    4     |   1    |   3   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   42   | 500 gm |    4     |   1    |   3   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   43   | 500 gm |    4     |   2    |   1   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   44   | 500 gm |    4     |   2    |   1   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   45   | 500 gm |    4     |   2    |   2   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   46   | 500 gm |    4     |   2    |   2   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   47   | 500 gm |    4     |   2    |   3   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   48   | 500 gm |    4     |   2    |   3   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   49   | 500 gm |    4     |   3    |   1   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   50   | 500 gm |    4     |   3    |   1   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   51   | 500 gm |    4     |   3    |   2   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   52   | 500 gm |    4     |   3    |   2   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   53   | 500 gm |    4     |   3    |   3   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   54   | 500 gm |    4     |   3    |   3   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   55   | 750 gm |    2     |   1    |   1   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   56   | 750 gm |    2     |   1    |   1   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   57   | 750 gm |    2     |   1    |   2   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   58   | 750 gm |    2     |   1    |   2   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   59   | 750 gm |    2     |   1    |   3   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   60   | 750 gm |    2     |   1    |   3   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   61   | 750 gm |    2     |   2    |   1   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   62   | 750 gm |    2     |   2    |   1   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   63   | 750 gm |    2     |   2    |   2   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   64   | 750 gm |    2     |   2    |   2   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   65   | 750 gm |    2     |   2    |   3   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   66   | 750 gm |    2     |   2    |   3   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   67   | 750 gm |    2     |   3    |   1   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   68   | 750 gm |    2     |   3    |   1   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   69   | 750 gm |    2     |   3    |   2   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   70   | 750 gm |    2     |   3    |   2   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   71   | 750 gm |    2     |   3    |   3   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   72   | 750 gm |    2     |   3    |   3   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   73   | 750 gm |    3     |   1    |   1   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   74   | 750 gm |    3     |   1    |   1   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   75   | 750 gm |    3     |   1    |   2   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   76   | 750 gm |    3     |   1    |   2   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   77   | 750 gm |    3     |   1    |   3   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   78   | 750 gm |    3     |   1    |   3   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   79   | 750 gm |    3     |   2    |   1   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   80   | 750 gm |    3     |   2    |   1   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   81   | 750 gm |    3     |   2    |   2   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   82   | 750 gm |    3     |   2    |   2   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   83   | 750 gm |    3     |   2    |   3   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   84   | 750 gm |    3     |   2    |   3   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   85   | 750 gm |    3     |   3    |   1   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   86   | 750 gm |    3     |   3    |   1   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   87   | 750 gm |    3     |   3    |   2   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   88   | 750 gm |    3     |   3    |   2   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   89   | 750 gm |    3     |   3    |   3   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   90   | 750 gm |    3     |   3    |   3   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   91   | 750 gm |    4     |   1    |   1   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   92   | 750 gm |    4     |   1    |   1   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   93   | 750 gm |    4     |   1    |   2   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   94   | 750 gm |    4     |   1    |   2   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   95   | 750 gm |    4     |   1    |   3   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   96   | 750 gm |    4     |   1    |   3   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   97   | 750 gm |    4     |   2    |   1   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   98   | 750 gm |    4     |   2    |   1   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|   99   | 750 gm |    4     |   2    |   2   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  100   | 750 gm |    4     |   2    |   2   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  101   | 750 gm |    4     |   2    |   3   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  102   | 750 gm |    4     |   2    |   3   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  103   | 750 gm |    4     |   3    |   1   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  104   | 750 gm |    4     |   3    |   1   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  105   | 750 gm |    4     |   3    |   2   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  106   | 750 gm |    4     |   3    |   2   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  107   | 750 gm |    4     |   3    |   3   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  108   | 750 gm |    4     |   3    |   3   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  109   |  1 kg  |    2     |   1    |   1   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  110   |  1 kg  |    2     |   1    |   1   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  111   |  1 kg  |    2     |   1    |   2   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  112   |  1 kg  |    2     |   1    |   2   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  113   |  1 kg  |    2     |   1    |   3   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  114   |  1 kg  |    2     |   1    |   3   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  115   |  1 kg  |    2     |   2    |   1   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  116   |  1 kg  |    2     |   2    |   1   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  117   |  1 kg  |    2     |   2    |   2   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  118   |  1 kg  |    2     |   2    |   2   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  119   |  1 kg  |    2     |   2    |   3   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  120   |  1 kg  |    2     |   2    |   3   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  121   |  1 kg  |    2     |   3    |   1   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  122   |  1 kg  |    2     |   3    |   1   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  123   |  1 kg  |    2     |   3    |   2   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  124   |  1 kg  |    2     |   3    |   2   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  125   |  1 kg  |    2     |   3    |   3   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  126   |  1 kg  |    2     |   3    |   3   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  127   |  1 kg  |    3     |   1    |   1   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  128   |  1 kg  |    3     |   1    |   1   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  129   |  1 kg  |    3     |   1    |   2   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  130   |  1 kg  |    3     |   1    |   2   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  131   |  1 kg  |    3     |   1    |   3   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  132   |  1 kg  |    3     |   1    |   3   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  133   |  1 kg  |    3     |   2    |   1   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  134   |  1 kg  |    3     |   2    |   1   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  135   |  1 kg  |    3     |   2    |   2   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  136   |  1 kg  |    3     |   2    |   2   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  137   |  1 kg  |    3     |   2    |   3   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  138   |  1 kg  |    3     |   2    |   3   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  139   |  1 kg  |    3     |   3    |   1   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  140   |  1 kg  |    3     |   3    |   1   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  141   |  1 kg  |    3     |   3    |   2   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  142   |  1 kg  |    3     |   3    |   2   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  143   |  1 kg  |    3     |   3    |   3   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  144   |  1 kg  |    3     |   3    |   3   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  145   |  1 kg  |    4     |   1    |   1   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  146   |  1 kg  |    4     |   1    |   1   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  147   |  1 kg  |    4     |   1    |   2   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  148   |  1 kg  |    4     |   1    |   2   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  149   |  1 kg  |    4     |   1    |   3   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  150   |  1 kg  |    4     |   1    |   3   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  151   |  1 kg  |    4     |   2    |   1   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  152   |  1 kg  |    4     |   2    |   1   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  153   |  1 kg  |    4     |   2    |   2   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  154   |  1 kg  |    4     |   2    |   2   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  155   |  1 kg  |    4     |   2    |   3   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  156   |  1 kg  |    4     |   2    |   3   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  157   |  1 kg  |    4     |   3    |   1   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  158   |  1 kg  |    4     |   3    |   1   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  159   |  1 kg  |    4     |   3    |   2   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  160   |  1 kg  |    4     |   3    |   2   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  161   |  1 kg  |    4     |   3    |   3   | 3 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
-|  162   |  1 kg  |    4     |   3    |   3   | 4 cloves | 2 tablespoons | 1 teaspoon | to taste | to taste | 2 tablespoons | 2 cups |
+|              N|            Beef |       Potatoes |         Carrot |          Onion |         Garlic |          Flour |          Thyme |           Salt |         Pepper |            Oil |          Water |
+|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|
+|               1|          500 gm|               2|               1|               1|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|               2|          500 gm|               2|               1|               1|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|               3|          500 gm|               2|               1|               2|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|               4|          500 gm|               2|               1|               2|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|               5|          500 gm|               2|               1|               3|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|               6|          500 gm|               2|               1|               3|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|               7|          500 gm|               2|               2|               1|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|               8|          500 gm|               2|               2|               1|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|               9|          500 gm|               2|               2|               2|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              10|          500 gm|               2|               2|               2|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              11|          500 gm|               2|               2|               3|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              12|          500 gm|               2|               2|               3|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              13|          500 gm|               2|               3|               1|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              14|          500 gm|               2|               3|               1|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              15|          500 gm|               2|               3|               2|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              16|          500 gm|               2|               3|               2|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              17|          500 gm|               2|               3|               3|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              18|          500 gm|               2|               3|               3|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              19|          500 gm|               3|               1|               1|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              20|          500 gm|               3|               1|               1|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              21|          500 gm|               3|               1|               2|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              22|          500 gm|               3|               1|               2|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              23|          500 gm|               3|               1|               3|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              24|          500 gm|               3|               1|               3|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              25|          500 gm|               3|               2|               1|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              26|          500 gm|               3|               2|               1|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              27|          500 gm|               3|               2|               2|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              28|          500 gm|               3|               2|               2|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              29|          500 gm|               3|               2|               3|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              30|          500 gm|               3|               2|               3|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              31|          500 gm|               3|               3|               1|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              32|          500 gm|               3|               3|               1|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              33|          500 gm|               3|               3|               2|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              34|          500 gm|               3|               3|               2|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              35|          500 gm|               3|               3|               3|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              36|          500 gm|               3|               3|               3|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              37|          500 gm|               4|               1|               1|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              38|          500 gm|               4|               1|               1|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              39|          500 gm|               4|               1|               2|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              40|          500 gm|               4|               1|               2|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              41|          500 gm|               4|               1|               3|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              42|          500 gm|               4|               1|               3|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              43|          500 gm|               4|               2|               1|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              44|          500 gm|               4|               2|               1|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              45|          500 gm|               4|               2|               2|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              46|          500 gm|               4|               2|               2|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              47|          500 gm|               4|               2|               3|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              48|          500 gm|               4|               2|               3|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              49|          500 gm|               4|               3|               1|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              50|          500 gm|               4|               3|               1|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              51|          500 gm|               4|               3|               2|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              52|          500 gm|               4|               3|               2|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              53|          500 gm|               4|               3|               3|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              54|          500 gm|               4|               3|               3|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              55|          750 gm|               2|               1|               1|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              56|          750 gm|               2|               1|               1|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              57|          750 gm|               2|               1|               2|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              58|          750 gm|               2|               1|               2|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              59|          750 gm|               2|               1|               3|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              60|          750 gm|               2|               1|               3|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              61|          750 gm|               2|               2|               1|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              62|          750 gm|               2|               2|               1|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              63|          750 gm|               2|               2|               2|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              64|          750 gm|               2|               2|               2|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              65|          750 gm|               2|               2|               3|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              66|          750 gm|               2|               2|               3|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              67|          750 gm|               2|               3|               1|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              68|          750 gm|               2|               3|               1|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              69|          750 gm|               2|               3|               2|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              70|          750 gm|               2|               3|               2|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              71|          750 gm|               2|               3|               3|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              72|          750 gm|               2|               3|               3|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              73|          750 gm|               3|               1|               1|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              74|          750 gm|               3|               1|               1|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              75|          750 gm|               3|               1|               2|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              76|          750 gm|               3|               1|               2|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              77|          750 gm|               3|               1|               3|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              78|          750 gm|               3|               1|               3|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              79|          750 gm|               3|               2|               1|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              80|          750 gm|               3|               2|               1|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              81|          750 gm|               3|               2|               2|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              82|          750 gm|               3|               2|               2|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              83|          750 gm|               3|               2|               3|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              84|          750 gm|               3|               2|               3|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              85|          750 gm|               3|               3|               1|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              86|          750 gm|               3|               3|               1|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              87|          750 gm|               3|               3|               2|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              88|          750 gm|               3|               3|               2|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              89|          750 gm|               3|               3|               3|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              90|          750 gm|               3|               3|               3|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              91|          750 gm|               4|               1|               1|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              92|          750 gm|               4|               1|               1|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              93|          750 gm|               4|               1|               2|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              94|          750 gm|               4|               1|               2|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              95|          750 gm|               4|               1|               3|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              96|          750 gm|               4|               1|               3|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              97|          750 gm|               4|               2|               1|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              98|          750 gm|               4|               2|               1|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|              99|          750 gm|               4|               2|               2|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             100|          750 gm|               4|               2|               2|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             101|          750 gm|               4|               2|               3|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             102|          750 gm|               4|               2|               3|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             103|          750 gm|               4|               3|               1|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             104|          750 gm|               4|               3|               1|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             105|          750 gm|               4|               3|               2|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             106|          750 gm|               4|               3|               2|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             107|          750 gm|               4|               3|               3|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             108|          750 gm|               4|               3|               3|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             109|            1 kg|               2|               1|               1|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             110|            1 kg|               2|               1|               1|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             111|            1 kg|               2|               1|               2|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             112|            1 kg|               2|               1|               2|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             113|            1 kg|               2|               1|               3|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             114|            1 kg|               2|               1|               3|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             115|            1 kg|               2|               2|               1|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             116|            1 kg|               2|               2|               1|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             117|            1 kg|               2|               2|               2|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             118|            1 kg|               2|               2|               2|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             119|            1 kg|               2|               2|               3|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             120|            1 kg|               2|               2|               3|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             121|            1 kg|               2|               3|               1|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             122|            1 kg|               2|               3|               1|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             123|            1 kg|               2|               3|               2|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             124|            1 kg|               2|               3|               2|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             125|            1 kg|               2|               3|               3|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             126|            1 kg|               2|               3|               3|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             127|            1 kg|               3|               1|               1|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             128|            1 kg|               3|               1|               1|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             129|            1 kg|               3|               1|               2|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             130|            1 kg|               3|               1|               2|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             131|            1 kg|               3|               1|               3|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             132|            1 kg|               3|               1|               3|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             133|            1 kg|               3|               2|               1|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             134|            1 kg|               3|               2|               1|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             135|            1 kg|               3|               2|               2|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             136|            1 kg|               3|               2|               2|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             137|            1 kg|               3|               2|               3|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             138|            1 kg|               3|               2|               3|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             139|            1 kg|               3|               3|               1|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             140|            1 kg|               3|               3|               1|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             141|            1 kg|               3|               3|               2|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             142|            1 kg|               3|               3|               2|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             143|            1 kg|               3|               3|               3|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             144|            1 kg|               3|               3|               3|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             145|            1 kg|               4|               1|               1|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             146|            1 kg|               4|               1|               1|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             147|            1 kg|               4|               1|               2|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             148|            1 kg|               4|               1|               2|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             149|            1 kg|               4|               1|               3|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             150|            1 kg|               4|               1|               3|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             151|            1 kg|               4|               2|               1|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             152|            1 kg|               4|               2|               1|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             153|            1 kg|               4|               2|               2|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             154|            1 kg|               4|               2|               2|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             155|            1 kg|               4|               2|               3|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             156|            1 kg|               4|               2|               3|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             157|            1 kg|               4|               3|               1|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             158|            1 kg|               4|               3|               1|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             159|            1 kg|               4|               3|               2|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             160|            1 kg|               4|               3|               2|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             161|            1 kg|               4|               3|               3|        3 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 
+|             162|            1 kg|               4|               3|               3|        4 cloves|   2 tablespoons|      1 teaspoon|        to taste|        to taste|   2 tablespoons|          2 cups| 

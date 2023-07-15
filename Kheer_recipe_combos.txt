@@ -1,26 +1,26 @@
-| Combos |   Sugar   |   Milk  |  Rice  | Water  |
-|--------|-----------|---------|--------|--------|
-|   1    | 10 spoons |  5% Fat | 500 gm | 300 ml |
-|   2    | 10 spoons |  5% Fat | 500 gm | 400 ml |
-|   3    | 10 spoons |  5% Fat | 600 gm | 300 ml |
-|   4    | 10 spoons |  5% Fat | 600 gm | 400 ml |
-|   5    | 10 spoons | 10% Fat | 500 gm | 300 ml |
-|   6    | 10 spoons | 10% Fat | 500 gm | 400 ml |
-|   7    | 10 spoons | 10% Fat | 600 gm | 300 ml |
-|   8    | 10 spoons | 10% Fat | 600 gm | 400 ml |
-|   9    | 20 spoons |  5% Fat | 500 gm | 300 ml |
-|   10   | 20 spoons |  5% Fat | 500 gm | 400 ml |
-|   11   | 20 spoons |  5% Fat | 600 gm | 300 ml |
-|   12   | 20 spoons |  5% Fat | 600 gm | 400 ml |
-|   13   | 20 spoons | 10% Fat | 500 gm | 300 ml |
-|   14   | 20 spoons | 10% Fat | 500 gm | 400 ml |
-|   15   | 20 spoons | 10% Fat | 600 gm | 300 ml |
-|   16   | 20 spoons | 10% Fat | 600 gm | 400 ml |
-|   17   | 30 spoons |  5% Fat | 500 gm | 300 ml |
-|   18   | 30 spoons |  5% Fat | 500 gm | 400 ml |
-|   19   | 30 spoons |  5% Fat | 600 gm | 300 ml |
-|   20   | 30 spoons |  5% Fat | 600 gm | 400 ml |
-|   21   | 30 spoons | 10% Fat | 500 gm | 300 ml |
-|   22   | 30 spoons | 10% Fat | 500 gm | 400 ml |
-|   23   | 30 spoons | 10% Fat | 600 gm | 300 ml |
-|   24   | 30 spoons | 10% Fat | 600 gm | 400 ml |
+|              N|           Sugar |           Milk |           Rice |          Water |
+|----------------|----------------|----------------|----------------|----------------|
+|               1|       10 spoons|          5% Fat|          500 gm|          300 ml| 
+|               2|       10 spoons|          5% Fat|          500 gm|          400 ml| 
+|               3|       10 spoons|          5% Fat|          600 gm|          300 ml| 
+|               4|       10 spoons|          5% Fat|          600 gm|          400 ml| 
+|               5|       10 spoons|         10% Fat|          500 gm|          300 ml| 
+|               6|       10 spoons|         10% Fat|          500 gm|          400 ml| 
+|               7|       10 spoons|         10% Fat|          600 gm|          300 ml| 
+|               8|       10 spoons|         10% Fat|          600 gm|          400 ml| 
+|               9|       20 spoons|          5% Fat|          500 gm|          300 ml| 
+|              10|       20 spoons|          5% Fat|          500 gm|          400 ml| 
+|              11|       20 spoons|          5% Fat|          600 gm|          300 ml| 
+|              12|       20 spoons|          5% Fat|          600 gm|          400 ml| 
+|              13|       20 spoons|         10% Fat|          500 gm|          300 ml| 
+|              14|       20 spoons|         10% Fat|          500 gm|          400 ml| 
+|              15|       20 spoons|         10% Fat|          600 gm|          300 ml| 
+|              16|       20 spoons|         10% Fat|          600 gm|          400 ml| 
+|              17|       30 spoons|          5% Fat|          500 gm|          300 ml| 
+|              18|       30 spoons|          5% Fat|          500 gm|          400 ml| 
+|              19|       30 spoons|          5% Fat|          600 gm|          300 ml| 
+|              20|       30 spoons|          5% Fat|          600 gm|          400 ml| 
+|              21|       30 spoons|         10% Fat|          500 gm|          300 ml| 
+|              22|       30 spoons|         10% Fat|          500 gm|          400 ml| 
+|              23|       30 spoons|         10% Fat|          600 gm|          300 ml| 
+|              24|       30 spoons|         10% Fat|          600 gm|          400 ml| 
