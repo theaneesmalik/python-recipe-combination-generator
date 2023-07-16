@@ -1,5 +1,5 @@
-|              N|        Tomatoes |           Salt |         Pepper |
-|----------------|----------------|----------------|----------------|
-|               1|               2|        to taste|        to taste| 
-|               2|               3|        to taste|        to taste| 
-|               3|               4|        to taste|        to taste| 
+| N             | Tomatoes      | Salt          | Pepper        | 
+|---------------|---------------|---------------|---------------|
+| 1             | 2             | to taste      | to taste      | 
+| 2             | 3             | to taste      | to taste      | 
+| 3             | 4             | to taste      | to taste      | 

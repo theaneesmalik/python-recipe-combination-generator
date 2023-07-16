@@ -1,8 +1,8 @@
-|              N|          Shrimp |         Butter |         Garlic |        Parsley |           Salt |         Pepper |
-|----------------|----------------|----------------|----------------|----------------|----------------|----------------|
-|               1|          250 gm|   2 tablespoons|        3 cloves|    1 tablespoon|        to taste|        to taste| 
-|               2|          250 gm|   2 tablespoons|        4 cloves|    1 tablespoon|        to taste|        to taste| 
-|               3|          300 gm|   2 tablespoons|        3 cloves|    1 tablespoon|        to taste|        to taste| 
-|               4|          300 gm|   2 tablespoons|        4 cloves|    1 tablespoon|        to taste|        to taste| 
-|               5|          350 gm|   2 tablespoons|        3 cloves|    1 tablespoon|        to taste|        to taste| 
-|               6|          350 gm|   2 tablespoons|        4 cloves|    1 tablespoon|        to taste|        to taste| 
+| N             | Shrimp        | Butter           | Garlic        | Parsley         | Salt          | Pepper        | 
+|---------------|---------------|------------------|---------------|-----------------|---------------|---------------|
+| 1             | 250 gm        | 2 tablespoons    | 3 cloves      | 1 tablespoon    | to taste      | to taste      | 
+| 2             | 250 gm        | 2 tablespoons    | 4 cloves      | 1 tablespoon    | to taste      | to taste      | 
+| 3             | 300 gm        | 2 tablespoons    | 3 cloves      | 1 tablespoon    | to taste      | to taste      | 
+| 4             | 300 gm        | 2 tablespoons    | 4 cloves      | 1 tablespoon    | to taste      | to taste      | 
+| 5             | 350 gm        | 2 tablespoons    | 3 cloves      | 1 tablespoon    | to taste      | to taste      | 
+| 6             | 350 gm        | 2 tablespoons    | 4 cloves      | 1 tablespoon    | to taste      | to taste      | 
